@@ -1,0 +1,213 @@
+
+.banner{
+    width: 1320px;
+    height: 600px;
+    background-image: url(/images/Banner\ Image.png);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.text{
+    text-align: center;
+    color:#FFFFFF;
+}
+.text h2{
+    font-size: 60px;
+}
+.pho{
+    text-align: center;
+    width:802px ;
+    height:806px ;
+}
+.discount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pho h1{
+    color: red;
+    
+}
+.pho h6{
+    color: red;
+    font-size: 15px;
+
+}
+.pho h1{
+    font-size:80px ;
+}
+.pho p{
+    font-size: 40px;
+}
+.midnight{
+    background-image: url(/images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 0;
+    
+    
+    
+    
+}
+.d{
+    padding: 125px;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+    
+
+}
+.midnight{
+    color: #FFFFFF;
+    justify-content: center;
+    
+    
+}
+.midnight h1{
+    font-size: 60px;
+}
+.ha{
+   text-align: center;
+    
+    
+    
+   
+    
+}
+.ban{
+    width: 1320px;
+    height: 482px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e3dddd;
+    margin-top: 75px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 0px;
+}
+span{
+    color: red;
+    
+}
+.os{
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    
+}
+.body{
+    display: flex;
+    width: 1320px;
+    height: 464px;
+    margin: 0 auto;
+    margin-top: 80px;
+    justify-content: space-between;
+    
+
+}
+.bod1{
+    width: 393px;
+    height: 292px;
+}
+.bod2{
+    width: 463px;
+    height: 463px;
+    
+}
+.bod3 {
+    width: 276px;
+    height: 170px;
+
+}
+.bod3 img {
+    width: 146px;
+    height: 146px;
+}
+.bod1 h4{
+     color: red;
+}
+.bod3 h1{
+    color: red;
+    font-size: 55px;
+}
+.sale{
+    width: 1320px;
+    height: 986px;
+    margin: 0 auto;
+    background-image: url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-top:50px;
+    
+
+
+}
+.sa{
+    text-align: center;
+}
+.sa h2{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.gi{
+    width: 1320px;
+    height: 1113px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.gi h4{
+    color: red;
+}
+.gi h1{
+    font-weight: 800;
+    font-size: 40px;
+}
+.ft{
+    display: flex;
+    gap: 22px;
+    margin-bottom: 15px;
+}
+
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.sub{
+    text-align: center;
+    padding-top: 150px;
+    
+}
+.sub h1{
+    font-weight: 600;
+    font-size: 35px;
+}
+.butto button {
+    width: 210px;
+    height: 72px;
+    background-color: red;
+    border-radius: 0 50px 50px 0;
+    border: none;
+    margin-right: 30px;
+    padding: 15px;
+}
+.butto input{
+    width: 350px;
+    height: 72px;
+    border: none;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+
